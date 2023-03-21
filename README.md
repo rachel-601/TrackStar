@@ -1,4 +1,4 @@
-# My Personal Project
+# My Personal Project ~ in progress
 
 ## Fitness Tracker
 
