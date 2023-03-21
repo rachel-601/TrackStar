@@ -1,0 +1,15 @@
+{
+    "activities": [
+        {
+            "date": "02/24/2023",
+            "duration": 10,
+            "distance": 4
+        },
+        {
+            "date": "02/27/2023",
+            "duration": 30,
+            "distance": 6.5
+        }
+    ],
+    "name": "General Activities"
+}
