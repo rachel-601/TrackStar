@@ -1,17 +1,17 @@
-# My Personal Project ~ in progress
+# My Personal Project
 
-## Fitness Tracker
+## TrackStar
 
 This application is an easy way for users to track their weekly fitness progress by calculating the total calories they 
 have burned from all their runs. It can also give a report on one's statistics after at least one run has been 
-recorded. The Fitness Tracker can be used by **anyone** who is interested in working out and recording their progress 
+recorded. TrackStar can be used by **anyone** who is interested in working out and recording their progress 
 over time. 
 
 I am interested in making this application because I enjoy exercising in my free time, and I find that seeing my 
 progress over time increases my motivation to continue working out. Going on runs has always been a great way for me to
 de-stress and stay fit, so having an application that can keep track of all the runs I go on is *extremely* useful.
 
-The Fitness Tracker can display the:
+The TrackStar can display the:
 - date of a run
 - distance of a run
 - duration of a run
